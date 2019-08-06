@@ -1,0 +1,12 @@
+[submodule "Articles/LaravelLifecycle"]
+	path = Articles/LaravelLifecycle
+	url = git@github.com:erayaydin/laravel-lifecycle.git
+[submodule "Examples/DesignPatterns"]
+	path = Examples/DesignPatterns
+	url = git@github.com:erayaydin/design-patterns-php.git
+[submodule "Examples/Iyzico3DExample"]
+	path = Examples/Iyzico3DExample
+	url = git@github.com:erayaydin/iyzico-example.git
+[submodule "Projects/FishackathonAPI"]
+	path = Projects/FishackathonAPI
+	url = git@gitlab.com:erayaydin/fish.git
