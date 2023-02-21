@@ -7,3 +7,6 @@
 [submodule "Projects/FishackathonAPI"]
 	path = Projects/FishackathonAPI
 	url = git@gitlab.com:erayaydin/fish.git
+[submodule "Projects/pet-on-vacation"]
+	path = Projects/pet-on-vacation
+	url = git@github.com:erayaydin/pet-on-vacation.git
