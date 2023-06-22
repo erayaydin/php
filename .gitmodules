@@ -4,6 +4,3 @@
 [submodule "Examples/Iyzico3DExample"]
 	path = Examples/Iyzico3DExample
 	url = git@github.com:erayaydin/iyzico-example.git
-[submodule "Projects/FishackathonAPI"]
-	path = Projects/FishackathonAPI
-	url = git@gitlab.com:erayaydin/fish.git
